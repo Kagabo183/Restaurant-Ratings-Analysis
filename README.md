@@ -199,3 +199,8 @@ Food_Rating_Category = SWITCH(
 ![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
 ![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
 
+## Interactive Dashboard  
+To explore visualizations, dive deeper into metrics, and dynamically filter data, check out the live dashboard below:
+
+[🔍 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQzZDUwMTQtNDJiMy00OWEyLWFlNDUtMDIzZWU4YjgzZDQ4IiwidCI6ImMxYTMwMDM3LWM0NTYtNDJhMy1hNjQzLWZhYTI4MzFiYjI5NCJ9) 
+
